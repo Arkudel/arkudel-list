@@ -11,12 +11,17 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "vomitrain",
+		"price": 1600,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "clearweather",
+		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
 	},
@@ -272,11 +277,6 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "animal",
 		"price": 1500,
 		"karmatype": "Good"
 	},
