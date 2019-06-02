@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -261,6 +271,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "predators",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "randomdisease",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -366,5 +381,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 73
+	"total": 76
 }
