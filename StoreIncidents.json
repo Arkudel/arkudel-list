@@ -106,11 +106,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -316,11 +311,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -334,67 +324,7 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "reversetraderequest",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "woundedcombatants",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "pirateextortion",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "roadworks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "diplomaticmarriage",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "mysticalshaman",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "annualexpo",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "peacetalks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "piratecamp",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "bumpercrops",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hunterslodge",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "baseattack",
-		"price": 1000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 65
 }
